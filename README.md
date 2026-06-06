@@ -26,7 +26,7 @@ Requirements:
 
 ## Solution Architecture
 
-![AWS Multi Region Disaster Recovery Architecture](diagrams/aws-multi-region-disaster-recovery-route53-failover-architecture.png)
+![AWS Multi Region Disaster Recovery Architecture](Screenshots/aws-multi-region-disaster-recovery-route53-failover-architecture.png)
 
 
 ---
